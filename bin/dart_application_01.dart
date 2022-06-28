@@ -1,6 +1,3 @@
-import 'package:dart_application_01/dart_application_01.dart'
-    as dart_application_01;
-
 void main(List<String> arguments) {
   /*
 
